@@ -50,6 +50,9 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/DiogoGaspar6/DiogoGaspar6/output/snake.svg" alt="Snake animation" />
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DiogoGaspar6&theme=dracula" alt="Contributions" />
+</div>
+
 
 ###

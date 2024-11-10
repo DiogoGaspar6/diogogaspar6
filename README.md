@@ -14,7 +14,7 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=DiogoGaspar6&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&custom_title=My%20stats%20%F0%9F%98%8A" height="150" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=DiogoGaspar6&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="160" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=DiogoGaspar6&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DiogoGaspar6&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=false&custom_title=Languages%20%F0%9F%A4%AF" height="150" alt="languages graph"  />
 </div>
 

@@ -5,7 +5,7 @@
 <div style="display: flex; flex-direction: row; align-items: center">
   <div>
     <p>
-      🌍 Hello! I'm from Vila Praia de Âncora, Portugal.<br><br>
+      🌍 I'm from Vila Praia de Âncora, Portugal.<br><br>
       📚 Studying Computer Engineering at IPVC ESTG.<br><br>
       🤝 Teamwork is my strength: I enjoy collaborating, sharing ideas, and supporting my co-workers whenever possible.<br><br>
       💡 I love contributing new ideas and actively engaging in projects.<br><br>
